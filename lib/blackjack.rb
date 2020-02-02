@@ -44,11 +44,6 @@ def hit?(card_total)
     end
 end
 
-# def get_and_return
-#   input = gets
-#   p input
-# end
-
 def invalid_command
   puts "Please enter a valid command"
 end
